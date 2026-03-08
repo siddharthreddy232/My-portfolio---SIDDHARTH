@@ -3,10 +3,6 @@
   <a href="https://your-portfolio-link.com" target="_blank">Siddharth Reddy Maddi</a>
 </h2>
 
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
-
 <br/>
 
 <center>
